@@ -1,0 +1,12 @@
+{
+  "projects": [
+    { "repo": "habit-tracker",
+      "description": "A web app for tracking daily habits and building consistency, with motivation-focused progress views." },
+    { "repo": "Harshas-Chatbot",
+      "description": "A RAG-based chatbot built on Hugging Face models for document reading, summarization, and analysis." },
+    { "repo": "SmartCity-OS",
+      "description": "A live civic dashboard for traffic, weather, air quality, and flood index, with RBAC-controlled admin verification and country-scale ambitions." },
+    { "repo": "chatbot",
+      "description": "A foundational chatbot exploring the core building blocks of conversational AI." }
+  ]
+}
