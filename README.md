@@ -36,7 +36,7 @@ and I'm growing my skills toward AI/ML on the side.
 
 - Currently building **[SmartCity-OS](https://github.com/Harshith8244/SmartCity-OS)** and **[Harshas-Chatbot](https://github.com/Harshith8244/Harshas-Chatbot)**
 - Learning **React Native** and growing into **AI/ML**
-- Fun fact: **_(add something fun about yourself here)_**
+- Fun fact: **I measure the difficulty of a bug by how many cups of coffee it takes to fix it.**
 
 <br>
 
